@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-11-03
 // @description  try to take over the world!
-// @author       You
+// @author       星海 https://www.youtube.com/@%E6%98%9F%E6%B5%B7-o9l
 // @match        https://*.17roco.qq.com/h5/*
 // @exclude      https://17roco.qq.com/h5/
 // @grant        none
